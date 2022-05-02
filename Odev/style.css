@@ -1,0 +1,37 @@
+.navbar{
+    margin-left: 15cm;
+}
+#index,#about{
+    margin-inline: 50px;
+}
+#eai {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #eai td, #eai th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #eai tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #eai tr:hover {background-color: #ddd;}
+  
+  #eai th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+  .Başlık1{
+      background-color: #04AA6D;
+  }
+  #yazi{
+      text-align: center;
+  }
+  .Başlık2{
+      background-color: coral;
+  }
